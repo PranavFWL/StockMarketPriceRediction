@@ -89,3 +89,5 @@ print('explained_variance_score',explained_variance_score(real, prediction))
 
 
 print('Chingariyaaa, hai jo mere')
+print("this for educational purpose only")
+print('price prediction')
