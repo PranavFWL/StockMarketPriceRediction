@@ -90,3 +90,4 @@ print('explained_variance_score',explained_variance_score(real, prediction))
 
 
 print("this for educational purpose only")
+print('price prediction')
