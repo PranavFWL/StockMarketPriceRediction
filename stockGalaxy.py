@@ -86,3 +86,6 @@ print('mean_squared_error', mean_squared_error(real, prediction))
 print('mean_absolute_error',mean_absolute_error(real, prediction))
 print('r2_score',r2_score(real, prediction))
 print('explained_variance_score',explained_variance_score(real, prediction))
+
+
+print('Chingariyaaa, hai jo mere')
