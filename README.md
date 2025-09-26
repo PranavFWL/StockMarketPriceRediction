@@ -4,16 +4,6 @@ Stock Market Price Prediction
 
 This project centers on predicting stock market prices using machine learning techniques, particularly time-series models. It is designed to help you explore historical stock data, build predictive models (for example using LSTM recurrent neural networks), and evaluate their performance.
 
-Project Contents
-
-The repository typically includes:
-
-* A notebook (such as “StockPrediction.ipynb”) or script for data processing, model building, and evaluation
-* A data folder containing historical stock data files (for instance, CSVs for specific companies)
-* Code files for model training and generating predictions, such as Python scripts or Jupyter notebooks
-* A requirements file listing necessary libraries (e.g., pandas, NumPy, scikit-learn, TensorFlow or Keras)
-* Saved model files (if available) and possibly visual outputs or model checkpoints
-
 Features
 
 * Load and preprocess historical stock data (for example, using Open, High, Low, Close values)
